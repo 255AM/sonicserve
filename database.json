@@ -1,0 +1,450 @@
+{
+  "users": [
+    {
+      "email": "lanecw@gmail.com",
+      "name": "Chance Lane",
+      "userName": "2:55AM",
+      "id": 1
+    },
+    {
+      "email": "erica@email.com",
+      "name": "Erica Lane",
+      "userName": "erica1",
+      "id": 2
+    },
+    {
+      "email": "scott@email.com",
+      "name": "Scott Peterson",
+      "userName": "beatlemaniac",
+      "id": 3
+    },
+    {
+      "email": "fred@email.com",
+      "name": "Fred Durst",
+      "userName": "FDurst4Eva",
+      "id": 4
+    },
+    {
+      "email": "t@email",
+      "name": "T Lane",
+      "userName": "t4trouble",
+      "id": 5
+    }
+  ],
+  "games": [
+    {
+      "score": 15,
+      "categoryId": 3,
+      "userId": "1",
+      "artistGuessCorrect": 11,
+      "songGuessCorrect": 4,
+      "avgAnswerTime": 0,
+      "songsPlayed": 15,
+      "id": 1
+    },
+    {
+      "score": 8,
+      "categoryId": 3,
+      "userId": "3",
+      "artistGuessCorrect": 5,
+      "songGuessCorrect": 3,
+      "avgAnswerTime": 0,
+      "songsPlayed": 6,
+      "id": 2
+    },
+    {
+      "score": 19,
+      "categoryId": 5,
+      "userId": "3",
+      "artistGuessCorrect": 15,
+      "songGuessCorrect": 12,
+      "avgAnswerTime": 0,
+      "songsPlayed": 18,
+      "id": 3
+    },
+    {
+      "score": 6,
+      "categoryId": 3,
+      "userId": "3",
+      "artistGuessCorrect": 18,
+      "songGuessCorrect": 15,
+      "avgAnswerTime": 0,
+      "songsPlayed": 22,
+      "id": 4
+    },
+    {
+      "score": 0,
+      "categoryId": 4,
+      "userId": "3",
+      "artistGuessCorrect": 18,
+      "songGuessCorrect": 15,
+      "avgAnswerTime": 0,
+      "songsPlayed": 29,
+      "id": 5
+    },
+    {
+      "score": 5,
+      "categoryId": 5,
+      "userId": "1",
+      "artistGuessCorrect": 3,
+      "songGuessCorrect": 2,
+      "avgAnswerTime": 0,
+      "songsPlayed": 7,
+      "id": 6
+    },
+    {
+      "score": 0,
+      "categoryId": 1,
+      "userId": "1",
+      "artistGuessCorrect": 0,
+      "songGuessCorrect": 0,
+      "avgAnswerTime": 0,
+      "songsPlayed": 1,
+      "id": 7
+    },
+    {
+      "score": 15,
+      "categoryId": 6,
+      "userId": "1",
+      "artistGuessCorrect": 6,
+      "songGuessCorrect": 9,
+      "avgAnswerTime": 0,
+      "songsPlayed": 14,
+      "id": 8
+    },
+    {
+      "score": 21,
+      "categoryId": 1,
+      "userId": "1",
+      "artistGuessCorrect": 18,
+      "songGuessCorrect": 18,
+      "avgAnswerTime": 0,
+      "songsPlayed": 28,
+      "id": 9
+    },
+    {
+      "score": 22,
+      "categoryId": 2,
+      "userId": "4",
+      "artistGuessCorrect": 7,
+      "songGuessCorrect": 4,
+      "avgAnswerTime": 0,
+      "songsPlayed": 12,
+      "id": 10
+    },
+    {
+      "score": 20,
+      "categoryId": 2,
+      "userId": "4",
+      "artistGuessCorrect": 12,
+      "songGuessCorrect": 8,
+      "avgAnswerTime": 0,
+      "songsPlayed": 28,
+      "id": 11
+    },
+    {
+      "score": 12,
+      "categoryId": 6,
+      "userId": "1",
+      "artistGuessCorrect": 8,
+      "songGuessCorrect": 5,
+      "avgAnswerTime": 0,
+      "songsPlayed": 17,
+      "id": 12
+    },
+    {
+      "score": 9,
+      "categoryId": 6,
+      "userId": "1",
+      "artistGuessCorrect": 5,
+      "songGuessCorrect": 4,
+      "avgAnswerTime": 0,
+      "songsPlayed": 10,
+      "id": 13
+    },
+    {
+      "score": 18,
+      "categoryId": 6,
+      "userId": "1",
+      "artistGuessCorrect": 8,
+      "songGuessCorrect": 10,
+      "avgAnswerTime": 0,
+      "songsPlayed": 12,
+      "id": 14
+    },
+    {
+      "score": 1,
+      "categoryId": 6,
+      "userId": "1",
+      "artistGuessCorrect": 0,
+      "songGuessCorrect": 1,
+      "avgAnswerTime": 0,
+      "songsPlayed": 3,
+      "id": 15
+    },
+    {
+      "score": 5,
+      "categoryId": 1,
+      "userId": "1",
+      "artistGuessCorrect": 3,
+      "songGuessCorrect": 2,
+      "avgAnswerTime": 0,
+      "songsPlayed": 4,
+      "id": 16
+    },
+    {
+      "score": 3,
+      "categoryId": 6,
+      "userId": "1",
+      "artistGuessCorrect": 4,
+      "songGuessCorrect": 4,
+      "avgAnswerTime": 0,
+      "songsPlayed": 8,
+      "id": 17
+    },
+    {
+      "score": 0,
+      "categoryId": 1,
+      "userId": "1",
+      "artistGuessCorrect": 0,
+      "songGuessCorrect": 0,
+      "avgAnswerTime": 0,
+      "songsPlayed": 1,
+      "id": 18
+    },
+    {
+      "score": 0,
+      "categoryId": 6,
+      "userId": "1",
+      "artistGuessCorrect": 0,
+      "songGuessCorrect": 0,
+      "avgAnswerTime": 0,
+      "songsPlayed": 2,
+      "id": 19
+    },
+    {
+      "score": 1,
+      "categoryId": 6,
+      "userId": "1",
+      "artistGuessCorrect": 1,
+      "songGuessCorrect": 0,
+      "avgAnswerTime": 0,
+      "songsPlayed": 2,
+      "id": 20
+    },
+    {
+      "score": 0,
+      "categoryId": 6,
+      "userId": "1",
+      "artistGuessCorrect": 0,
+      "songGuessCorrect": 0,
+      "avgAnswerTime": 0,
+      "songsPlayed": 4,
+      "id": 21
+    },
+    {
+      "score": 1,
+      "categoryId": 6,
+      "userId": "1",
+      "artistGuessCorrect": 1,
+      "songGuessCorrect": 0,
+      "avgAnswerTime": 0,
+      "songsPlayed": 7,
+      "id": 22
+    },
+    {
+      "score": 0,
+      "categoryId": 6,
+      "userId": "1",
+      "artistGuessCorrect": 1,
+      "songGuessCorrect": 0,
+      "avgAnswerTime": 0,
+      "songsPlayed": 10,
+      "id": 23
+    },
+    {
+      "score": 0,
+      "categoryId": 6,
+      "userId": "1",
+      "artistGuessCorrect": 0,
+      "songGuessCorrect": 0,
+      "avgAnswerTime": 0,
+      "songsPlayed": 3,
+      "id": 24
+    },
+    {
+      "score": 0,
+      "categoryId": 6,
+      "userId": "1",
+      "artistGuessCorrect": 0,
+      "songGuessCorrect": 0,
+      "avgAnswerTime": 0,
+      "songsPlayed": 10,
+      "id": 25
+    },
+    {
+      "score": 0,
+      "categoryId": 6,
+      "userId": "1",
+      "artistGuessCorrect": 0,
+      "songGuessCorrect": 0,
+      "avgAnswerTime": 0,
+      "songsPlayed": 0,
+      "id": 26
+    },
+    {
+      "score": 13,
+      "categoryId": 6,
+      "userId": "1",
+      "artistGuessCorrect": 5,
+      "songGuessCorrect": 8,
+      "avgAnswerTime": 0,
+      "songsPlayed": 9,
+      "id": 27
+    },
+    {
+      "score": 10,
+      "categoryId": 6,
+      "userId": "1",
+      "artistGuessCorrect": 5,
+      "songGuessCorrect": 5,
+      "avgAnswerTime": 0,
+      "songsPlayed": 10,
+      "id": 28
+    },
+    {
+      "score": 7,
+      "categoryId": 6,
+      "userId": "1",
+      "artistGuessCorrect": 4,
+      "songGuessCorrect": 3,
+      "avgAnswerTime": 0,
+      "songsPlayed": 6,
+      "id": 29
+    },
+    {
+      "score": 2,
+      "categoryId": 6,
+      "userId": "1",
+      "artistGuessCorrect": 1,
+      "songGuessCorrect": 1,
+      "avgAnswerTime": 0,
+      "songsPlayed": 4,
+      "id": 30
+    },
+    {
+      "score": 4,
+      "categoryId": 6,
+      "userId": "5",
+      "artistGuessCorrect": 2,
+      "songGuessCorrect": 2,
+      "avgAnswerTime": 0,
+      "songsPlayed": 4,
+      "id": 31
+    },
+    {
+      "score": 17,
+      "categoryId": 6,
+      "userId": "5",
+      "artistGuessCorrect": 12,
+      "songGuessCorrect": 9,
+      "avgAnswerTime": 0,
+      "songsPlayed": 15,
+      "id": 32
+    },
+    {
+      "score": 10,
+      "categoryId": 3,
+      "userId": "1",
+      "artistGuessCorrect": 6,
+      "songGuessCorrect": 4,
+      "avgAnswerTime": 0,
+      "songsPlayed": 10,
+      "id": 33
+    },
+    {
+      "score": 4,
+      "categoryId": 3,
+      "userId": "1",
+      "artistGuessCorrect": 2,
+      "songGuessCorrect": 2,
+      "avgAnswerTime": 0,
+      "songsPlayed": 4,
+      "id": 34
+    },
+    {
+      "score": 1,
+      "categoryId": 3,
+      "userId": "1",
+      "artistGuessCorrect": 1,
+      "songGuessCorrect": 0,
+      "avgAnswerTime": 0,
+      "songsPlayed": 3,
+      "id": 35
+    },
+    {
+      "score": 1,
+      "categoryId": 2,
+      "userId": "1",
+      "artistGuessCorrect": 2,
+      "songGuessCorrect": 0,
+      "avgAnswerTime": 0,
+      "songsPlayed": 6,
+      "id": 36
+    },
+    {
+      "score": 1,
+      "categoryId": 2,
+      "userId": "1",
+      "artistGuessCorrect": 1,
+      "songGuessCorrect": 0,
+      "avgAnswerTime": 0,
+      "songsPlayed": 3,
+      "id": 37
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "80s Country",
+      "spotifyPlaylistUri": "37i9dQZF1DX6RCydf9ytsj",
+      "image": "https://i.scdn.co/image/ab67706f00000003a9a72d13a1164e672fe6301f",
+      "writeup": "Big hair and blue jeans dominated the genre during the decade, which saw numerous superstars come into their own. Johnny Cash finally joined the Country Music Hall of Fame. The Class of '89, which consisted of Alan Jackson, Travis Tritt, Clint Black, and Garth Brooks, entered the fold and sowed the seeds of what would become seminal country music of the 1990s. "
+    },
+    {
+      "id": 2,
+      "name": "Best of the 90's",
+      "spotifyPlaylistUri": "3C64V048fGyQfCjmu9TIGA",
+      "image": "https://i.scdn.co/image/ab67706c0000bebbad3f7fc6ca71742df49cfd1f",
+      "writeup": "The Nineties music boom was a gold rush for singles – everywhere you went on the radio, you heard a high-speed collision of different beats. Every style of music out there was booming, from grunge to gangsta rap, from dancehall to disco, from riot-grrrl punk to TRL midriff mall-pop, with a thousand different electronica schools and nearly as many Wu-Tang solo records. Whatever kind of noise was ringing your bells, the Nineties held more of it than any fan could absorb."
+    },
+    {
+      "id": 3,
+      "name": "Classic Rock",
+      "spotifyPlaylistUri": "6TeyryiZ2UEf3CbLXyztFA",
+      "image": "https://mosaic.scdn.co/640/ab67616d0000b27361e11cce99aab86cb1ce253bab67616d0000b273dc30583ba717007b00cceb25ab67616d0000b273f05e5ac32fdd79d100315a20ab67616d0000b273fc4f17340773c6c3579fea0d",
+      "writeup": "Classic rock in itself has long been established as a true American music genre.While bands like Aerosmith and The Doors are often considered to be the fathers of classic rock, the fluid lines of what defines a classic will vary depending on the part of the world you're in."
+    },
+    {
+      "id": 4,
+      "name": "Hits of the 80s",
+      "spotifyPlaylistUri": "37i9dQZF1DXb57FjYWz00c",
+      "image": "https://i.scdn.co/image/ab67706f000000035e98bc8db32dc5981d0df665",
+      "writeup": "Our sonic roundup of the era that brought us Miami Vice, mall culture and more awesomely cheesy entertainment than any sane person can handle is wonderfully diverse. There’s hair metal, sure, and more than a smidge of synth-pop, but there are also some killer rockers, diva jams, new-wave classics, hip-hop standouts, lovelorn ballads and even a bit of indie rock"
+    },
+    {
+      "id": 5,
+      "name": "This is the Beatles",
+      "spotifyPlaylistUri": "37i9dQZF1DXdLtD0qszB1w",
+      "image": "https://i.scdn.co/image/ab67706f00000003ed3a8bb5b72ab5ccbf5834b8",
+      "writeup": "The Beatles, formerly called the Quarrymen or the Silver Beatles, byname Fab Four, British musical quartet and a global cynosure for the hopes and dreams of a generation that came of age in the 1960s. "
+    },
+    {
+      "id": 6,
+      "name": "Classic Country Hits: The '60s",
+      "spotifyPlaylistUri": "37i9dQZF1DX7CGYgLhqwu5",
+      "image": "https://i.scdn.co/image/ab67706f00000003b5c1c133dc1d37f8a0eb7acb",
+      "writeup": "From Woodstock to the Beatles, the 1960s were a huge decade for music -- and country music was no exception. The '60s gave country music fans countless future standards, and the highlights of those 10 years include everything from Loretta Lynn earning her first No. 1 single to Johnny Cash continuing to tear up the charts."
+    }
+  ]
+}
